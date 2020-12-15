@@ -1,1 +1,1 @@
-# A simple backend authentication api with node express and mongoose
+# A simple backend authentication api with node express mongoose and jsonwebtoken
